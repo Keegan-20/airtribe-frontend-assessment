@@ -1,6 +1,5 @@
-# Modern Task Manager
-
-Modern Task Manager is a web application that helps you manage your tasks efficiently. It allows you to create, edit, delete, and organize tasks across different status columns using a drag-and-drop interface.
+# Kanban Board
+Kanban Board is a web application that helps you manage your tasks efficiently. It allows you to create, edit, delete, and organize tasks across different status columns using a drag-and-drop interface.
 
 ## Features
 
